@@ -8,8 +8,8 @@ You have to log in to do stuff with the API.
 Connects to a PostgreSQL database
 
 ### ⚡ Status ⚡
-I am not going to be actively working on this. <br>
-*THAT DOES NOT MEAN THIS REPO IS DEAD*
+Working on frontend...
+
 
 ### ⚙️ Setup ⚙️  
 1. Clone the repo
